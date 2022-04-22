@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/create_new_quiz" />
+    <item
+        android:id="@+id/list_Quiz"
+        android:title="@string/list_quiz" />
+
+</menu>

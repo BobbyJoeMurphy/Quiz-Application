@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/delete_Quiz"
+        android:name="com.example.mub2quizapp.activities.fragments.DeleteQuiz"
+        android:label="fragment_delete__quiz"
+        tools:layout="@layout/fragment_delete_quiz" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.mub2quizapp.activities.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/ManageQuiz"
+        android:name="com.example.mub2quizapp.activities.fragments.ManageQuiz"
+        android:label="fragment_manage_quiz"
+        tools:layout="@layout/fragment_manage_quiz" />
+    <fragment
+        android:id="@+id/list_Quiz"
+        android:name="com.example.mub2quizapp.activities.fragments.ListQuiz"
+        android:label="fragment_list__quiz"
+        tools:layout="@layout/fragment_list_quiz" />
+    <fragment
+        android:id="@+id/add_question"
+        android:name="com.example.mub2quizapp.activities.addQuiz.AddQuestion"
+        android:label="fragment_add_question"
+        tools:layout="@layout/fragment_add_question" />
+
+</navigation>

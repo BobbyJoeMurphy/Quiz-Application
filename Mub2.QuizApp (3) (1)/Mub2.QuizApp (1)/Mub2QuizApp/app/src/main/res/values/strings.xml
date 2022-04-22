@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mub2.QuizApp</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="quiz">QUIZ</string>
+    <string name="please_select_a_button">Please select a button</string>
+    <string name="delete_quiz">Delete Quiz</string>
+    <string name="create_new_quiz">Create New Quiz</string>
+    <string name="manage_quiz">Manage Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bob">bob</string>
+    <string name="quiz_manager">quiz manager</string>
+    <string name="Add_question">Add question</string>
+    <string name="textview">TextView</string>
+    <string name="enter_the_following_promts">Enter the following promts</string>
+    <string name="create_an_name_for_the_quiz">Create an name for the quiz</string>
+    <string name="list_quiz">List Quiz</string>
+    <string name="list_Quiz">list Quiz</string>
+    <string name="insert_quiz_name">insert quiz name</string>
+    <string name="question_name">Question name</string>
+    <string name="add_question">Add question</string>
+    <string name="question_bank">Question bank</string>
+    <string name="select_question_bank">Select a question bank</string>
+    <string name="add_question_bank">Add question bank</string>
+    <string name="add_question_bank_hint">New question bank name</string>
+    <string name="delete">Delete</string>
+    <string name="answer">Answer</string>
+    <string name="take_quiz">Take a Quiz</string>
+    <string name="select_question">Select question</string>
+    <string name="next">Next</string>
+    <string name="current_question">Question %1$d</string>
+    <string name="score_title">%1$d / %2$d</string>
+    <string name="quiz_finish">Finish</string>
+</resources>
